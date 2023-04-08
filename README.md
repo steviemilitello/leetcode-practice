@@ -18,24 +18,21 @@
 
 <h1>:memo: Table of Contents</h1>
 
-- [001 - Two Sum](001-two-sum.js)
-- [002 - Add Two Numbers](002-add-two-numbers.js)
-- [003 - Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js)
-- [005 - Longest Palindrome Substring](005-longest-palindromic-substring.js)
-- [009 - Palindrome Number](009-palindrome-number.js)
-- [013 - Roman to Integer](013-roman-to-integer.js)
-- [014 - Longest Common Prefix](014-longest-common-prefix.js)
-- [020 - Valid Parentheses](020-valid-parentheses.js)
-- [021 - Merge Two Sorted Lists](021-merge-two-sorted-lists.js)
-- [026 - Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.js)
-- [027 - Remove Element](027-remove-element.js)
-- [035 - Search Insert Position](035-search-insert-position.js)
-- [058 - Length of Last Word](058-length-of-last-word.js)
-- [066 - Plus One](066-plus-one.js)
-- [067 - Add Binary](067-add-binary.js)
-- [070 - Climbing Stairs](070-climbing-stairs.js)
-
-
-
-
-
+| #   | Name                                                                                                    | Difficulty | Status                                     |
+| --- | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ |
+| 001 | [Two Sum](001-two-sum.js)                                                                               | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 002 | [Add Two Numbers](002-add-two-numbers.js)                                                               | Medium     | <h4 align="center">:white_check_mark:</h4> |
+| 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | Medium     | <h4 align="center">:white_check_mark:</h4> |
+| 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | Medium     | <h4 align="center">:white_check_mark:</h4> |
+| 009 | [Palindrome Number](009-palindrome-number.js)                                                           | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 013 | [Roman to Integer](013-roman-to-integer.js)                                                             | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 014 | [Longest Common Prefix](014-longest-common-prefix.js)                                                   | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 020 | [Valid Parentheses](020-valid-parentheses.js)                                                           | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 021 | [Merge Two Sorted Lists](021-merge-two-sorted-lists.js)                                                 | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 026 | [Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.js)                       | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 027 | [Remove Element](027-remove-element.js)                                                                 | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 035 | [Search Insert Position](035-search-insert-position.js)                                                 | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 058 | [Length of Last Word](058-length-of-last-word.js)                                                       | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 066 | [Plus One](066-plus-one.js)                                                                             | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 067 | [Add Binary](067-add-binary.js)                                                                         | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| 070 | [Climbing Stairs](070-climbing-stairs.js)                                                               | Easy       | <h4 align="center">:white_check_mark:</h4> |
