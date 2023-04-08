@@ -23,8 +23,13 @@
 | 001 | [Two Sum](001-two-sum.js)                                                                               | Easy       | &emsp;:white_check_mark: |
 | 002 | [Add Two Numbers](002-add-two-numbers.js)                                                               | Medium     | &emsp;:white_check_mark: |
 | 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | Medium     | &emsp;:white_check_mark: |
+| 004 | Median of Two Sorted Arrays                                                                             | Hard       |                          |
 | 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | Medium     | &emsp;:white_check_mark: |
+| 006 | Zigzag Conversion                                                                                       | Medium     |                          |
+| 007 | Reverse Integer                                                                                         | Medium     |                          |
+| 008 | String to Integer                                                                                       | Medium     |                          |
 | 009 | [Palindrome Number](009-palindrome-number.js)                                                           | Easy       | &emsp;:white_check_mark: |
+| 010 | Regular Expression Matching                                                                             | Hard       |                          |
 | 013 | [Roman to Integer](013-roman-to-integer.js)                                                             | Easy       | &emsp;:white_check_mark: |
 | 014 | [Longest Common Prefix](014-longest-common-prefix.js)                                                   | Easy       | &emsp;:white_check_mark: |
 | 020 | [Valid Parentheses](020-valid-parentheses.js)                                                           | Easy       | &emsp;:white_check_mark: |
