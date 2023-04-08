@@ -1,5 +1,5 @@
-<div align="center">
-   <h1>:book: Leetcode Practice :book:</h1>
+<
+   <h1>:book: Lee Practice :book:</h1>
    <a href="http://steviecodes.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio_-darkgreen?style=for-the-badge&logo=medium"/>
    </a>
@@ -18,21 +18,21 @@
 
 <h1>:memo: Table of Contents</h1>
 
-| #   | Name                                                                                                    | Difficulty | Status                                     |
-| --- | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------ |
-| 001 | [Two Sum](001-two-sum.js)                                                                               | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 002 | [Add Two Numbers](002-add-two-numbers.js)                                                               | Medium     | <h4 align="center">:white_check_mark:</h4> |
-| 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | Medium     | <h4 align="center">:white_check_mark:</h4> |
-| 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | Medium     | <h4 align="center">:white_check_mark:</h4> |
-| 009 | [Palindrome Number](009-palindrome-number.js)                                                           | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 013 | [Roman to Integer](013-roman-to-integer.js)                                                             | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 014 | [Longest Common Prefix](014-longest-common-prefix.js)                                                   | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 020 | [Valid Parentheses](020-valid-parentheses.js)                                                           | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 021 | [Merge Two Sorted Lists](021-merge-two-sorted-lists.js)                                                 | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 026 | [Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.js)                       | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 027 | [Remove Element](027-remove-element.js)                                                                 | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 035 | [Search Insert Position](035-search-insert-position.js)                                                 | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 058 | [Length of Last Word](058-length-of-last-word.js)                                                       | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 066 | [Plus One](066-plus-one.js)                                                                             | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 067 | [Add Binary](067-add-binary.js)                                                                         | Easy       | <h4 align="center">:white_check_mark:</h4> |
-| 070 | [Climbing Stairs](070-climbing-stairs.js)                                                               | Easy       | <h4 align="center">:white_check_mark:</h4> |
+| #   | Name                                                                                                    | Difficulty | Status             |
+| --- | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------ |
+| 001 | [Two Sum](001-two-sum.js)                                                                               | Easy       | :white_check_mark: |
+| 002 | [Add Two Numbers](002-add-two-numbers.js)                                                               | Medium     | :white_check_mark: |
+| 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | Medium     | :white_check_mark: |
+| 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | Medium     | :white_check_mark: |
+| 009 | [Palindrome Number](009-palindrome-number.js)                                                           | Easy       | :white_check_mark: |
+| 013 | [Roman to Integer](013-roman-to-integer.js)                                                             | Easy       | :white_check_mark: |
+| 014 | [Longest Common Prefix](014-longest-common-prefix.js)                                                   | Easy       | :white_check_mark: |
+| 020 | [Valid Parentheses](020-valid-parentheses.js)                                                           | Easy       | :white_check_mark: |
+| 021 | [Merge Two Sorted Lists](021-merge-two-sorted-lists.js)                                                 | Easy       | :white_check_mark: |
+| 026 | [Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.js)                       | Easy       | :white_check_mark: |
+| 027 | [Remove Element](027-remove-element.js)                                                                 | Easy       | :white_check_mark: |
+| 035 | [Search Insert Position](035-search-insert-position.js)                                                 | Easy       | :white_check_mark: |
+| 058 | [Length of Last Word](058-length-of-last-word.js)                                                       | Easy       | :white_check_mark: |
+| 066 | [Plus One](066-plus-one.js)                                                                             | Easy       | :white_check_mark: |
+| 067 | [Add Binary](067-add-binary.js)                                                                         | Easy       | :white_check_mark: |
+| 070 | [Climbing Stairs](070-climbing-stairs.js)                                                               | Easy       | :white_check_mark: |
