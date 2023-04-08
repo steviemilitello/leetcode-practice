@@ -1,4 +1,5 @@
- <h1>:book: Leetcode Practice :book:</h1>
+ <div align="center">
+   <h1>:book: Leetcode Practice :book:</h1>
    <a href="http://steviecodes.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio_-darkgreen?style=for-the-badge&logo=medium"/>
    </a>
