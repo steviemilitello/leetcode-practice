@@ -18,21 +18,21 @@
 
 <h1>:memo: Table of Contents</h1>
 
-| #   | Name                                                                                                    | Difficulty                            | Status                         |
-| --- | ------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------ |
-| 001 | [Two Sum](001-two-sum.js)                                                                               | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 002 | [Add Two Numbers](002-add-two-numbers.js)                                                               | <h4 style="color:#F6C249">Medium</h4> | &emsp;&emsp;:white_check_mark: |
-| 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | <h4 style="color:#F6C249">Medium</h4> | &emsp;&emsp;:white_check_mark: |
-| 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | <h4 style="color:#F6C249">Medium</h4> | &emsp;&emsp;:white_check_mark: |
-| 009 | [Palindrome Number](009-palindrome-number.js)                                                           | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 013 | [Roman to Integer](013-roman-to-integer.js)                                                             | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 014 | [Longest Common Prefix](014-longest-common-prefix.js)                                                   | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 020 | [Valid Parentheses](020-valid-parentheses.js)                                                           | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 021 | [Merge Two Sorted Lists](021-merge-two-sorted-lists.js)                                                 | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 026 | [Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.js)                       | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 027 | [Remove Element](027-remove-element.js)                                                                 | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 035 | [Search Insert Position](035-search-insert-position.js)                                                 | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 058 | [Length of Last Word](058-length-of-last-word.js)                                                       | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 066 | [Plus One](066-plus-one.js)                                                                             | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 067 | [Add Binary](067-add-binary.js)                                                                         | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
-| 070 | [Climbing Stairs](070-climbing-stairs.js)                                                               | <h4 style="color:#52B5A3">Easy</h4>   | &emsp;&emsp;:white_check_mark: |
+| #   | Name                                                                                                    | Difficulty | Status                         |
+| --- | ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
+| 001 | [Two Sum](001-two-sum.js)                                                                               | Easy       | &emsp;&emsp;:white_check_mark: |
+| 002 | [Add Two Numbers](002-add-two-numbers.js)                                                               | Medium     | &emsp;&emsp;:white_check_mark: |
+| 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | Medium     | &emsp;&emsp;:white_check_mark: |
+| 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | Medium     | &emsp;&emsp;:white_check_mark: |
+| 009 | [Palindrome Number](009-palindrome-number.js)                                                           | Easy       | &emsp;&emsp;:white_check_mark: |
+| 013 | [Roman to Integer](013-roman-to-integer.js)                                                             | Easy       | &emsp;&emsp;:white_check_mark: |
+| 014 | [Longest Common Prefix](014-longest-common-prefix.js)                                                   | Easy       | &emsp;&emsp;:white_check_mark: |
+| 020 | [Valid Parentheses](020-valid-parentheses.js)                                                           | Easy       | &emsp;&emsp;:white_check_mark: |
+| 021 | [Merge Two Sorted Lists](021-merge-two-sorted-lists.js)                                                 | Easy       | &emsp;&emsp;:white_check_mark: |
+| 026 | [Remove Duplicates from Sorted Array](026-remove-duplicates-from-sorted-array.js)                       | Easy       | &emsp;&emsp;:white_check_mark: |
+| 027 | [Remove Element](027-remove-element.js)                                                                 | Easy       | &emsp;&emsp;:white_check_mark: |
+| 035 | [Search Insert Position](035-search-insert-position.js)                                                 | Easy       | &emsp;&emsp;:white_check_mark: |
+| 058 | [Length of Last Word](058-length-of-last-word.js)                                                       | Easy       | &emsp;&emsp;:white_check_mark: |
+| 066 | [Plus One](066-plus-one.js)                                                                             | Easy       | &emsp;&emsp;:white_check_mark: |
+| 067 | [Add Binary](067-add-binary.js)                                                                         | Easy       | &emsp;&emsp;:white_check_mark: |
+| 070 | [Climbing Stairs](070-climbing-stairs.js)                                                               | Easy       | &emsp;&emsp;:white_check_mark: |
