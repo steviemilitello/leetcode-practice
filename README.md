@@ -25,7 +25,7 @@
 | 003 | [Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.js) | Medium     | &emsp;:white_check_mark: |
 | 004 | [Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.js)                                       | Hard       | &emsp;:white_check_mark: |
 | 005 | [Longest Palindrome Substring](005-longest-palindromic-substring.js)                                    | Medium     | &emsp;:white_check_mark: |
-| 006 | [Zigzag Conversion](006-zigzag-conversion)                                                              | Medium     | &emsp;:white_check_mark: |
+| 006 | [Zigzag Conversion](006-zigzag-conversion.js)                                                           | Medium     | &emsp;:white_check_mark: |
 | 007 | Reverse Integer                                                                                         | Medium     |                          |
 | 008 | String to Integer                                                                                       | Medium     |                          |
 | 009 | [Palindrome Number](009-palindrome-number.js)                                                           | Easy       | &emsp;:white_check_mark: |
