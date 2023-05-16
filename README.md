@@ -1,5 +1,8 @@
  <div align="center">
    <h1>:book: Leetcode Practice :book:</h1>
+   <a href="https://leetcode.com/steviemilitello/" target="_blank">
+   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+   </a>
    <a href="http://steviecodes.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio_-darkgreen?style=for-the-badge&logo=medium"/>
    </a>
